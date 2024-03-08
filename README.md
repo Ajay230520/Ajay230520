@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ajay230520&label=Profile%20views&color=0e75b6&style=flat" alt="ajay230520" /> </p>
 
-- 🌱 I’m passionate About **WebDevlopment and DataStructure**
+- 🌱 I’v Interesst in **WebDevlopment and DataStructure**
 
 - 📫 How to reach me **ajaybhaimuniya@gmail.com**
 
